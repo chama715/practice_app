@@ -23,6 +23,7 @@ struct ContentView: View {
             //シンプルに文字の出力
             Text("現在の数:\(count)")
                 .font(.title)
+                .padding(.top, 20)
             //現在の数を表す。\()で数値を文字列に入れ込む。
             
             HStack(spacing: 24) {
@@ -32,6 +33,8 @@ struct ContentView: View {
                 }
                 .buttonStyle(.borderedProminent)
                 //押すとcountに+1されるボタン
+                
+                .padding()
                 
                 Button("-1") {
                     count -= 1
