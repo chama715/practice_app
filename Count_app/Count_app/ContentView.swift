@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-//SwiftUIの機能を使うために必要なライブラリ。個人的な感覚として、ContentViewの時はこれを使っているイメージ
 
 struct ContentView: View {
     //画面の定義。メインビューを作っている。
