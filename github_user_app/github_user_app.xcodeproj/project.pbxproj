@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		A38F17942DE00D0600795681 /* meigen_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = meigen_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A38F17AB2DE0710600795681 /* github_user_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = github_user_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A38F17962DE00D0600795681 /* meigen_app */ = {
+		A38F17AD2DE0710600795681 /* github_user_app */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = meigen_app;
+			path = github_user_app;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A38F17912DE00D0600795681 /* Frameworks */ = {
+		A38F17A82DE0710600795681 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A38F178B2DE00D0600795681 = {
+		A38F17A22DE0710600795681 = {
 			isa = PBXGroup;
 			children = (
-				A38F17962DE00D0600795681 /* meigen_app */,
-				A38F17952DE00D0600795681 /* Products */,
+				A38F17AD2DE0710600795681 /* github_user_app */,
+				A38F17AC2DE0710600795681 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A38F17952DE00D0600795681 /* Products */ = {
+		A38F17AC2DE0710600795681 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A38F17942DE00D0600795681 /* meigen_app.app */,
+				A38F17AB2DE0710600795681 /* github_user_app.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A38F17932DE00D0600795681 /* meigen_app */ = {
+		A38F17AA2DE0710600795681 /* github_user_app */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A38F179F2DE00D0900795681 /* Build configuration list for PBXNativeTarget "meigen_app" */;
+			buildConfigurationList = A38F17B62DE0710800795681 /* Build configuration list for PBXNativeTarget "github_user_app" */;
 			buildPhases = (
-				A38F17902DE00D0600795681 /* Sources */,
-				A38F17912DE00D0600795681 /* Frameworks */,
-				A38F17922DE00D0600795681 /* Resources */,
+				A38F17A72DE0710600795681 /* Sources */,
+				A38F17A82DE0710600795681 /* Frameworks */,
+				A38F17A92DE0710600795681 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A38F17962DE00D0600795681 /* meigen_app */,
+				A38F17AD2DE0710600795681 /* github_user_app */,
 			);
-			name = meigen_app;
+			name = github_user_app;
 			packageProductDependencies = (
 			);
-			productName = meigen_app;
-			productReference = A38F17942DE00D0600795681 /* meigen_app.app */;
+			productName = github_user_app;
+			productReference = A38F17AB2DE0710600795681 /* github_user_app.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A38F178C2DE00D0600795681 /* Project object */ = {
+		A38F17A32DE0710600795681 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1630;
 				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					A38F17932DE00D0600795681 = {
+					A38F17AA2DE0710600795681 = {
 						CreatedOnToolsVersion = 16.3;
 					};
 				};
 			};
-			buildConfigurationList = A38F178F2DE00D0600795681 /* Build configuration list for PBXProject "meigen_app" */;
+			buildConfigurationList = A38F17A62DE0710600795681 /* Build configuration list for PBXProject "github_user_app" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = A38F178B2DE00D0600795681;
+			mainGroup = A38F17A22DE0710600795681;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = A38F17952DE00D0600795681 /* Products */;
+			productRefGroup = A38F17AC2DE0710600795681 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A38F17932DE00D0600795681 /* meigen_app */,
+				A38F17AA2DE0710600795681 /* github_user_app */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A38F17922DE00D0600795681 /* Resources */ = {
+		A38F17A92DE0710600795681 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A38F17902DE00D0600795681 /* Sources */ = {
+		A38F17A72DE0710600795681 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A38F179D2DE00D0900795681 /* Debug */ = {
+		A38F17B42DE0710800795681 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		A38F179E2DE00D0900795681 /* Release */ = {
+		A38F17B52DE0710800795681 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -246,7 +246,7 @@
 			};
 			name = Release;
 		};
-		A38F17A02DE00D0900795681 /* Debug */ = {
+		A38F17B72DE0710800795681 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -266,7 +266,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.gmail.naoto0715charlie.meigen-app";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.gmail.naoto0715charlie.github-user-app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -274,7 +274,7 @@
 			};
 			name = Debug;
 		};
-		A38F17A12DE00D0900795681 /* Release */ = {
+		A38F17B82DE0710800795681 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -294,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.gmail.naoto0715charlie.meigen-app";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.gmail.naoto0715charlie.github-user-app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -305,25 +305,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A38F178F2DE00D0600795681 /* Build configuration list for PBXProject "meigen_app" */ = {
+		A38F17A62DE0710600795681 /* Build configuration list for PBXProject "github_user_app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A38F179D2DE00D0900795681 /* Debug */,
-				A38F179E2DE00D0900795681 /* Release */,
+				A38F17B42DE0710800795681 /* Debug */,
+				A38F17B52DE0710800795681 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A38F179F2DE00D0900795681 /* Build configuration list for PBXNativeTarget "meigen_app" */ = {
+		A38F17B62DE0710800795681 /* Build configuration list for PBXNativeTarget "github_user_app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A38F17A02DE00D0900795681 /* Debug */,
-				A38F17A12DE00D0900795681 /* Release */,
+				A38F17B72DE0710800795681 /* Debug */,
+				A38F17B82DE0710800795681 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A38F178C2DE00D0600795681 /* Project object */;
+	rootObject = A38F17A32DE0710600795681 /* Project object */;
 }
